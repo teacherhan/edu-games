@@ -1,0 +1,16 @@
+.game {
+    
+    left: 14em;
+    
+    
+}
+
+.grid-container{
+    display: grid;
+    grid-template-columns:auto 300px auto;
+    grid-gap: 12em;
+    /* background-color: #2196F3; */
+    padding: 1px;
+    box-shadow: 5px 10px #ccc7c7;
+    
+}
